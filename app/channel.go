@@ -10,9 +10,9 @@ import (
 	"time"
 
 	l4g "github.com/alecthomas/log4go"
-	"github.com/SoulDemon/mattermostp/model"
-	"github.com/SoulDemon/mattermostp/store"
-	"github.com/souldemon/mattermostp/utils"
+	"github.com/mattermost/mattermost-server/model"
+	"github.com/mattermost/mattermost-server/store"
+	"github.com/SoulDemon/mattermostp/utils"
 )
 
 func (a *App) CreateDefaultChannels(teamId string) ([]*model.Channel, *model.AppError) {

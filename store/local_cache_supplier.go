@@ -6,9 +6,9 @@ package store
 import (
 	"context"
 
-	"github.com/SoulDemon/mattermostp/einterfaces"
-	"github.com/SoulDemon/mattermostp/model"
-	"github.com/souldemon/mattermostp/utils"
+	"github.com/mattermost/mattermost-server/einterfaces"
+	"github.com/mattermost/mattermost-server/model"
+	"github.com/SoulDemon/mattermostp/utils"
 )
 
 const (

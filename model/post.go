@@ -12,7 +12,7 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/souldemon/mattermostp/utils/markdown"
+	"github.com/SoulDemon/mattermostp/utils/markdown"
 )
 
 const (

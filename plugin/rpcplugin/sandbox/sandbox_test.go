@@ -11,8 +11,8 @@ import (
 // sandboxing support with various systems by compiling the test executable and running this test on
 // your target systems. For example, with docker, executed from the root of the repo:
 //
-// docker run --rm -it -w /go/src/github.com/SoulDemon/mattermostp
-//     -v $(pwd):/go/src/github.com/SoulDemon/mattermostp golang:1.9
+// docker run --rm -it -w /go/src/github.com/mattermost/mattermost-server
+//     -v $(pwd):/go/src/github.com/mattermost/mattermost-server golang:1.9
 //     go test -c ./plugin/rpcplugin
 //
 // docker run --rm -it --privileged -w /opt/mattermost

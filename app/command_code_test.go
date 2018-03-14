@@ -3,7 +3,7 @@ package app
 import (
 	"testing"
 
-	"github.com/SoulDemon/mattermostp/model"
+	"github.com/mattermost/mattermost-server/model"
 )
 
 func TestCodeProviderDoCommand(t *testing.T) {

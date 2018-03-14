@@ -6,7 +6,7 @@ package api4
 import (
 	"net/http"
 
-	"github.com/SoulDemon/mattermostp/model"
+	"github.com/mattermost/mattermost-server/model"
 )
 
 func (api *API) InitPreference() {

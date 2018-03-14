@@ -7,7 +7,7 @@ import (
 	"mime/multipart"
 	"net/http"
 
-	"github.com/SoulDemon/mattermostp/model"
+	"github.com/mattermost/mattermost-server/model"
 )
 
 func (a *App) SaveBrandImage(imageData *multipart.FileHeader) *model.AppError {

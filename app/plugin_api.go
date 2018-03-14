@@ -9,10 +9,10 @@ import (
 	"strings"
 
 	"github.com/gorilla/mux"
-	"github.com/SoulDemon/mattermostp/model"
-	"github.com/souldemon/mattermostp/utils"
+	"github.com/mattermost/mattermost-server/model"
+	"github.com/SoulDemon/mattermostp/utils"
 
-	"github.com/SoulDemon/mattermostp/plugin"
+	"github.com/mattermost/mattermost-server/plugin"
 )
 
 type PluginAPI struct {

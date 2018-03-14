@@ -6,8 +6,8 @@ package storetest
 import (
 	"github.com/stretchr/testify/mock"
 
-	"github.com/SoulDemon/mattermostp/store"
-	"github.com/SoulDemon/mattermostp/store/storetest/mocks"
+	"github.com/mattermost/mattermost-server/store"
+	"github.com/mattermost/mattermost-server/store/storetest/mocks"
 )
 
 // NewStoreChannel returns a channel that will receive the given result.

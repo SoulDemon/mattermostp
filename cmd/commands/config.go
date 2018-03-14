@@ -8,9 +8,9 @@ import (
 	"errors"
 	"os"
 
-	"github.com/SoulDemon/mattermostp/cmd"
-	"github.com/SoulDemon/mattermostp/model"
-	"github.com/souldemon/mattermostp/utils"
+	"github.com/mattermost/mattermost-server/cmd"
+	"github.com/mattermost/mattermost-server/model"
+	"github.com/SoulDemon/mattermostp/utils"
 	"github.com/spf13/cobra"
 )
 

@@ -11,9 +11,9 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/SoulDemon/mattermostp/cmd"
-	"github.com/SoulDemon/mattermostp/model"
-	"github.com/souldemon/mattermostp/utils"
+	"github.com/mattermost/mattermost-server/cmd"
+	"github.com/mattermost/mattermost-server/model"
+	"github.com/SoulDemon/mattermostp/utils"
 )
 
 // There are no tests that actually run the Message Export job, because it can take a long time to complete depending

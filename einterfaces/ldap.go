@@ -6,7 +6,7 @@ package einterfaces
 import (
 	"github.com/go-ldap/ldap"
 
-	"github.com/SoulDemon/mattermostp/model"
+	"github.com/mattermost/mattermost-server/model"
 )
 
 type LdapInterface interface {

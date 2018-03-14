@@ -10,8 +10,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/SoulDemon/mattermostp/plugin/plugintest"
-	"github.com/SoulDemon/mattermostp/plugin/rpcplugin/rpcplugintest"
+	"github.com/mattermost/mattermost-server/plugin/plugintest"
+	"github.com/mattermost/mattermost-server/plugin/rpcplugin/rpcplugintest"
 )
 
 func TestMain(t *testing.T) {
@@ -24,7 +24,7 @@ func TestMain(t *testing.T) {
 		package main
 
 		import (
-			"github.com/SoulDemon/mattermostp/plugin/rpcplugin"
+			"github.com/mattermost/mattermost-server/plugin/rpcplugin"
 		)
 
 		type MyPlugin struct {}

@@ -4,7 +4,7 @@
 package plugin
 
 import (
-	"github.com/SoulDemon/mattermostp/model"
+	"github.com/mattermost/mattermost-server/model"
 )
 
 // The API can be used to retrieve data or perform actions on behalf of the plugin. Most methods

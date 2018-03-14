@@ -7,7 +7,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/SoulDemon/mattermostp/cmd"
+	"github.com/mattermost/mattermost-server/cmd"
 	"github.com/spf13/cobra"
 )
 

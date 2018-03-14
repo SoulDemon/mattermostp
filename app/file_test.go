@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/SoulDemon/mattermostp/model"
+	"github.com/mattermost/mattermost-server/model"
 )
 
 func TestGeneratePublicLinkHash(t *testing.T) {

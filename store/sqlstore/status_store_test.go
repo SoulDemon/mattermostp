@@ -6,7 +6,7 @@ package sqlstore
 import (
 	"testing"
 
-	"github.com/SoulDemon/mattermostp/store/storetest"
+	"github.com/mattermost/mattermost-server/store/storetest"
 )
 
 func TestStatusStore(t *testing.T) {

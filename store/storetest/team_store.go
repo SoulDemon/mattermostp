@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/SoulDemon/mattermostp/model"
-	"github.com/SoulDemon/mattermostp/store"
+	"github.com/mattermost/mattermost-server/model"
+	"github.com/mattermost/mattermost-server/store"
 )
 
 func TestTeamStore(t *testing.T, ss store.Store) {

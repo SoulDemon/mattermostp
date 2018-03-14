@@ -10,8 +10,8 @@ import (
 	"net/http"
 	"net/rpc"
 
-	"github.com/SoulDemon/mattermostp/model"
-	"github.com/SoulDemon/mattermostp/plugin"
+	"github.com/mattermost/mattermost-server/model"
+	"github.com/mattermost/mattermost-server/plugin"
 )
 
 type LocalAPI struct {

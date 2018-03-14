@@ -13,7 +13,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/SoulDemon/mattermostp/model"
+	"github.com/mattermost/mattermost-server/model"
 )
 
 func CheckOrigin(r *http.Request, allowedOrigins string) bool {

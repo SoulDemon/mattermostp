@@ -6,7 +6,7 @@ package rpcplugin
 import (
 	"testing"
 
-	"github.com/SoulDemon/mattermostp/plugin/rpcplugin/rpcplugintest"
+	"github.com/mattermost/mattermost-server/plugin/rpcplugin/rpcplugintest"
 )
 
 func TestSupervisorProvider(t *testing.T) {

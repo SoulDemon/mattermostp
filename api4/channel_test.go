@@ -12,7 +12,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/SoulDemon/mattermostp/model"
+	"github.com/mattermost/mattermost-server/model"
 )
 
 func TestCreateChannel(t *testing.T) {

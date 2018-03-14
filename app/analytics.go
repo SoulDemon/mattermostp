@@ -5,8 +5,8 @@ package app
 
 import (
 	l4g "github.com/alecthomas/log4go"
-	"github.com/SoulDemon/mattermostp/model"
-	"github.com/SoulDemon/mattermostp/store"
+	"github.com/mattermost/mattermost-server/model"
+	"github.com/mattermost/mattermost-server/store"
 )
 
 const (

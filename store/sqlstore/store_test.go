@@ -8,10 +8,10 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/SoulDemon/mattermostp/model"
-	"github.com/SoulDemon/mattermostp/store"
-	"github.com/SoulDemon/mattermostp/store/storetest"
-	"github.com/souldemon/mattermostp/utils"
+	"github.com/mattermost/mattermost-server/model"
+	"github.com/mattermost/mattermost-server/store"
+	"github.com/mattermost/mattermost-server/store/storetest"
+	"github.com/SoulDemon/mattermostp/utils"
 )
 
 var storeTypes = []*struct {

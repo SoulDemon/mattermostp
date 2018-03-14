@@ -10,9 +10,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/SoulDemon/mattermostp/model"
-	"github.com/SoulDemon/mattermostp/plugin"
-	"github.com/SoulDemon/mattermostp/plugin/rpcplugin"
+	"github.com/mattermost/mattermost-server/model"
+	"github.com/mattermost/mattermost-server/plugin"
+	"github.com/mattermost/mattermost-server/plugin/rpcplugin"
 )
 
 func SupervisorProvider(bundle *model.BundleInfo) (plugin.Supervisor, error) {

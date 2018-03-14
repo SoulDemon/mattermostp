@@ -13,9 +13,9 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/SoulDemon/mattermostp/model"
-	"github.com/SoulDemon/mattermostp/store/storetest"
-	"github.com/souldemon/mattermostp/utils"
+	"github.com/mattermost/mattermost-server/model"
+	"github.com/mattermost/mattermost-server/store/storetest"
+	"github.com/SoulDemon/mattermostp/utils"
 )
 
 func TestMain(m *testing.M) {

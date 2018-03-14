@@ -4,11 +4,11 @@
 package commands
 
 import (
-	"github.com/SoulDemon/mattermostp/app"
-	"github.com/SoulDemon/mattermostp/cmd"
-	"github.com/SoulDemon/mattermostp/model"
-	"github.com/SoulDemon/mattermostp/store"
-	"github.com/SoulDemon/mattermostp/store/sqlstore"
+	"github.com/mattermost/mattermost-server/app"
+	"github.com/mattermost/mattermost-server/cmd"
+	"github.com/mattermost/mattermost-server/model"
+	"github.com/mattermost/mattermost-server/store"
+	"github.com/mattermost/mattermost-server/store/sqlstore"
 	"github.com/spf13/cobra"
 )
 

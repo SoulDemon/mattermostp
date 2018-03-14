@@ -8,7 +8,7 @@ import (
 
 	l4g "github.com/alecthomas/log4go"
 
-	"github.com/SoulDemon/mattermostp/model"
+	"github.com/mattermost/mattermost-server/model"
 )
 
 type StoreResult struct {

@@ -4,7 +4,7 @@
 package jobs
 
 import (
-	"github.com/SoulDemon/mattermostp/model"
+	"github.com/mattermost/mattermost-server/model"
 )
 
 type MessageExportJobInterface interface {

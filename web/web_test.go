@@ -8,14 +8,14 @@ import (
 	"os"
 	"testing"
 
-	"github.com/SoulDemon/mattermostp/api"
-	"github.com/SoulDemon/mattermostp/api4"
-	"github.com/SoulDemon/mattermostp/app"
-	"github.com/SoulDemon/mattermostp/model"
-	"github.com/SoulDemon/mattermostp/store"
-	"github.com/SoulDemon/mattermostp/store/sqlstore"
-	"github.com/SoulDemon/mattermostp/store/storetest"
-	"github.com/souldemon/mattermostp/utils"
+	"github.com/mattermost/mattermost-server/api"
+	"github.com/mattermost/mattermost-server/api4"
+	"github.com/mattermost/mattermost-server/app"
+	"github.com/mattermost/mattermost-server/model"
+	"github.com/mattermost/mattermost-server/store"
+	"github.com/mattermost/mattermost-server/store/sqlstore"
+	"github.com/mattermost/mattermost-server/store/storetest"
+	"github.com/SoulDemon/mattermostp/utils"
 )
 
 var ApiClient *model.Client

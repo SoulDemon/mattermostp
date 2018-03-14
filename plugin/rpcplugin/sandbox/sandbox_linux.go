@@ -19,7 +19,7 @@ import (
 	"github.com/pkg/errors"
 	"golang.org/x/sys/unix"
 
-	"github.com/SoulDemon/mattermostp/plugin/rpcplugin"
+	"github.com/mattermost/mattermost-server/plugin/rpcplugin"
 )
 
 func init() {

@@ -12,12 +12,12 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/SoulDemon/mattermostp/api"
-	"github.com/SoulDemon/mattermostp/api4"
-	"github.com/SoulDemon/mattermostp/cmd"
-	"github.com/SoulDemon/mattermostp/model"
-	"github.com/souldemon/mattermostp/utils"
-	"github.com/SoulDemon/mattermostp/wsapi"
+	"github.com/mattermost/mattermost-server/api"
+	"github.com/mattermost/mattermost-server/api4"
+	"github.com/mattermost/mattermost-server/cmd"
+	"github.com/mattermost/mattermost-server/model"
+	"github.com/SoulDemon/mattermostp/utils"
+	"github.com/mattermost/mattermost-server/wsapi"
 	"github.com/spf13/cobra"
 )
 

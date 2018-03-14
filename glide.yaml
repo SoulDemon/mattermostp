@@ -1,4 +1,4 @@
-package: github.com/SoulDemon/mattermostp
+package: github.com/mattermost/mattermost-server
 import:
 - package: github.com/NYTimes/gziphandler
 - package: github.com/alecthomas/log4go

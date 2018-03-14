@@ -13,13 +13,13 @@ import (
 
 	l4g "github.com/alecthomas/log4go"
 
-	"github.com/SoulDemon/mattermostp/model"
-	"github.com/SoulDemon/mattermostp/plugin"
-	"github.com/SoulDemon/mattermostp/plugin/pluginenv"
-	"github.com/SoulDemon/mattermostp/store"
-	"github.com/SoulDemon/mattermostp/store/sqlstore"
-	"github.com/SoulDemon/mattermostp/store/storetest"
-	"github.com/souldemon/mattermostp/utils"
+	"github.com/mattermost/mattermost-server/model"
+	"github.com/mattermost/mattermost-server/plugin"
+	"github.com/mattermost/mattermost-server/plugin/pluginenv"
+	"github.com/mattermost/mattermost-server/store"
+	"github.com/mattermost/mattermost-server/store/sqlstore"
+	"github.com/mattermost/mattermost-server/store/storetest"
+	"github.com/SoulDemon/mattermostp/utils"
 )
 
 type TestHelper struct {

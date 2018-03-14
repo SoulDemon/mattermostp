@@ -14,5 +14,5 @@
 //
 // To make testing plugins easier, you can use the plugintest package to create a mock API for your
 // plugin to interact with. See
-// https://godoc.org/github.com/SoulDemon/mattermostp/plugin/plugintest
+// https://godoc.org/github.com/mattermost/mattermost-server/plugin/plugintest
 package plugin

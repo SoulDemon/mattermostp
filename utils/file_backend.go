@@ -6,7 +6,7 @@ package utils
 import (
 	"net/http"
 
-	"github.com/SoulDemon/mattermostp/model"
+	"github.com/mattermost/mattermost-server/model"
 )
 
 type FileBackend interface {

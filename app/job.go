@@ -4,7 +4,7 @@
 package app
 
 import (
-	"github.com/SoulDemon/mattermostp/model"
+	"github.com/mattermost/mattermost-server/model"
 )
 
 func (a *App) GetJob(id string) (*model.Job, *model.AppError) {

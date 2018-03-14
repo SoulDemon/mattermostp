@@ -10,7 +10,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/SoulDemon/mattermostp/model"
+	"github.com/mattermost/mattermost-server/model"
 )
 
 func StringArrayIntersection(arr1, arr2 []string) []string {

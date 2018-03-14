@@ -19,8 +19,8 @@ import (
 	"image/color/palette"
 
 	"github.com/disintegration/imaging"
-	"github.com/SoulDemon/mattermostp/model"
-	"github.com/souldemon/mattermostp/utils"
+	"github.com/mattermost/mattermost-server/model"
+	"github.com/SoulDemon/mattermostp/utils"
 )
 
 const (

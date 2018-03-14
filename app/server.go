@@ -20,9 +20,9 @@ import (
 	"github.com/pkg/errors"
 	"golang.org/x/crypto/acme/autocert"
 
-	"github.com/SoulDemon/mattermostp/model"
-	"github.com/SoulDemon/mattermostp/store"
-	"github.com/souldemon/mattermostp/utils"
+	"github.com/mattermost/mattermost-server/model"
+	"github.com/mattermost/mattermost-server/store"
+	"github.com/SoulDemon/mattermostp/utils"
 )
 
 type Server struct {

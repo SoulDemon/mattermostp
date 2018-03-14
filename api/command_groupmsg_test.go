@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/SoulDemon/mattermostp/model"
+	"github.com/mattermost/mattermost-server/model"
 )
 
 func TestGroupmsgCommands(t *testing.T) {
