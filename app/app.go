@@ -23,7 +23,7 @@ import (
 	"github.com/mattermost/mattermost-server/plugin/pluginenv"
 	"github.com/mattermost/mattermost-server/store"
 	"github.com/mattermost/mattermost-server/store/sqlstore"
-	"github.com/SoulDemon/mattermostp/utils"
+	"github.com/souldemon/mattermost-server/utils"
 )
 
 type App struct {

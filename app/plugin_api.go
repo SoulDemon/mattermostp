@@ -10,7 +10,7 @@ import (
 
 	"github.com/gorilla/mux"
 	"github.com/mattermost/mattermost-server/model"
-	"github.com/SoulDemon/mattermostp/utils"
+	"github.com/souldemon/mattermost-server/utils"
 
 	"github.com/mattermost/mattermost-server/plugin"
 )

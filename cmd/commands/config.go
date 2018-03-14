@@ -10,7 +10,7 @@ import (
 
 	"github.com/mattermost/mattermost-server/cmd"
 	"github.com/mattermost/mattermost-server/model"
-	"github.com/SoulDemon/mattermostp/utils"
+	"github.com/souldemon/mattermost-server/utils"
 	"github.com/spf13/cobra"
 )
 

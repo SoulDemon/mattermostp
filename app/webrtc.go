@@ -13,7 +13,7 @@ import (
 	"time"
 
 	"github.com/mattermost/mattermost-server/model"
-	"github.com/SoulDemon/mattermostp/utils"
+	"github.com/souldemon/mattermost-server/utils"
 )
 
 func (a *App) GetWebrtcInfoForSession(sessionId string) (*model.WebrtcInfoResponse, *model.AppError) {

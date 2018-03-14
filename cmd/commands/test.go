@@ -16,7 +16,7 @@ import (
 	"github.com/mattermost/mattermost-server/api4"
 	"github.com/mattermost/mattermost-server/cmd"
 	"github.com/mattermost/mattermost-server/model"
-	"github.com/SoulDemon/mattermostp/utils"
+	"github.com/souldemon/mattermost-server/utils"
 	"github.com/mattermost/mattermost-server/wsapi"
 	"github.com/spf13/cobra"
 )

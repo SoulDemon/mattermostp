@@ -18,8 +18,8 @@ import (
 	l4g "github.com/alecthomas/log4go"
 	"github.com/mattermost/mattermost-server/model"
 	"github.com/mattermost/mattermost-server/store"
-	"github.com/SoulDemon/mattermostp/utils"
-	"github.com/SoulDemon/mattermostp/utils/markdown"
+	"github.com/souldemon/mattermost-server/utils"
+	"github.com/souldemon/mattermost-server/utils/markdown"
 	"github.com/nicksnyder/go-i18n/i18n"
 )
 

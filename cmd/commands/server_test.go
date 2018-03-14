@@ -11,7 +11,7 @@ import (
 	"testing"
 
 	"github.com/mattermost/mattermost-server/jobs"
-	"github.com/SoulDemon/mattermostp/utils"
+	"github.com/souldemon/mattermost-server/utils"
 	"github.com/stretchr/testify/require"
 )
 

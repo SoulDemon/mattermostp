@@ -12,7 +12,7 @@ import (
 	"path/filepath"
 
 	"github.com/mattermost/mattermost-server/model"
-	"github.com/SoulDemon/mattermostp/utils"
+	"github.com/souldemon/mattermost-server/utils"
 )
 
 func (a *App) GetSamlMetadata() (string, *model.AppError) {
