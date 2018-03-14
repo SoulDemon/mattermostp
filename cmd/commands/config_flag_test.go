@@ -12,7 +12,7 @@ import (
 	"github.com/stretchr/testify/require"
 
 	"github.com/mattermost/mattermost-server/cmd"
-	"github.com/souldemon/mattermost-server/utils"
+	"github.com/souldemon/mattermostp/utils"
 )
 
 func TestConfigFlag(t *testing.T) {

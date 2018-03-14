@@ -14,7 +14,7 @@ import (
 
 	"github.com/mattermost/mattermost-server/einterfaces"
 	"github.com/mattermost/mattermost-server/model"
-	"github.com/souldemon/mattermost-server/utils"
+	"github.com/souldemon/mattermostp/utils"
 )
 
 func TestOAuthRegisterApp(t *testing.T) {

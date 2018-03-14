@@ -13,7 +13,7 @@ import (
 
 	"github.com/mattermost/mattermost-server/cmd"
 	"github.com/mattermost/mattermost-server/model"
-	"github.com/souldemon/mattermost-server/utils"
+	"github.com/souldemon/mattermostp/utils"
 )
 
 // There are no tests that actually run the Message Export job, because it can take a long time to complete depending

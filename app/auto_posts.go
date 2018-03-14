@@ -9,7 +9,7 @@ import (
 	"os"
 
 	"github.com/mattermost/mattermost-server/model"
-	"github.com/souldemon/mattermost-server/utils"
+	"github.com/souldemon/mattermostp/utils"
 )
 
 type AutoPostCreator struct {

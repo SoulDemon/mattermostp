@@ -21,7 +21,7 @@ import (
 
 	"github.com/gorilla/mux"
 	"github.com/mattermost/mattermost-server/model"
-	"github.com/souldemon/mattermost-server/utils"
+	"github.com/souldemon/mattermostp/utils"
 
 	builtinplugin "github.com/mattermost/mattermost-server/app/plugin"
 	"github.com/mattermost/mattermost-server/app/plugin/jira"

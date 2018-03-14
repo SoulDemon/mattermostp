@@ -18,7 +18,7 @@ import (
 	"github.com/mattermost/mattermost-server/store"
 	"github.com/mattermost/mattermost-server/store/sqlstore"
 	"github.com/mattermost/mattermost-server/store/storetest"
-	"github.com/souldemon/mattermost-server/utils"
+	"github.com/souldemon/mattermostp/utils"
 	"github.com/mattermost/mattermost-server/wsapi"
 
 	l4g "github.com/alecthomas/log4go"

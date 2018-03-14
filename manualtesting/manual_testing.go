@@ -15,7 +15,7 @@ import (
 	"github.com/mattermost/mattermost-server/api"
 	"github.com/mattermost/mattermost-server/app"
 	"github.com/mattermost/mattermost-server/model"
-	"github.com/souldemon/mattermost-server/utils"
+	"github.com/souldemon/mattermostp/utils"
 )
 
 type TestEnvironment struct {

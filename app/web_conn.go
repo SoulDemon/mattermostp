@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/mattermost/mattermost-server/model"
-	"github.com/souldemon/mattermost-server/utils"
+	"github.com/souldemon/mattermostp/utils"
 
 	l4g "github.com/alecthomas/log4go"
 	"github.com/gorilla/websocket"
