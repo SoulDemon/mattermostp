@@ -7,7 +7,7 @@ import (
 	"net/http"
 
 	"github.com/mattermost/mattermost-server/model"
-	"github.com/mattermost/mattermost-server/utils"
+	"github.com/SoulDemon/mattermostp/utils"
 )
 
 const OPEN_GRAPH_METADATA_CACHE_SIZE = 10000

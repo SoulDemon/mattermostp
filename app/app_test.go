@@ -15,7 +15,7 @@ import (
 
 	"github.com/mattermost/mattermost-server/model"
 	"github.com/mattermost/mattermost-server/store/storetest"
-	"github.com/mattermost/mattermost-server/utils"
+	"github.com/SoulDemon/mattermostp/utils"
 )
 
 func TestMain(m *testing.M) {

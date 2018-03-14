@@ -6,7 +6,7 @@ package app
 import (
 	"github.com/mattermost/mattermost-server/model"
 	"github.com/mattermost/mattermost-server/store"
-	"github.com/mattermost/mattermost-server/utils"
+	"github.com/SoulDemon/mattermostp/utils"
 
 	l4g "github.com/alecthomas/log4go"
 )

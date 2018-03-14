@@ -28,7 +28,7 @@ import (
 	_ "golang.org/x/image/bmp"
 
 	"github.com/mattermost/mattermost-server/model"
-	"github.com/mattermost/mattermost-server/utils"
+	"github.com/SoulDemon/mattermostp/utils"
 )
 
 const (

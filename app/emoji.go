@@ -20,7 +20,7 @@ import (
 
 	"github.com/disintegration/imaging"
 	"github.com/mattermost/mattermost-server/model"
-	"github.com/mattermost/mattermost-server/utils"
+	"github.com/SoulDemon/mattermostp/utils"
 )
 
 const (

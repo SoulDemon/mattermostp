@@ -11,7 +11,7 @@ import (
 	l4g "github.com/alecthomas/log4go"
 	"github.com/mattermost/mattermost-server/app"
 	"github.com/mattermost/mattermost-server/model"
-	"github.com/mattermost/mattermost-server/utils"
+	"github.com/SoulDemon/mattermostp/utils"
 )
 
 func (api *API) InitOAuth() {
