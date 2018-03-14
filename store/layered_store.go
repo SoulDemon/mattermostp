@@ -7,8 +7,8 @@ import (
 	"context"
 
 	l4g "github.com/alecthomas/log4go"
-	"github.com/mattermost/mattermost-server/einterfaces"
-	"github.com/mattermost/mattermost-server/model"
+	"github.com/SoulDemon/mattermostp/einterfaces"
+	"github.com/SoulDemon/mattermostp/model"
 )
 
 const (

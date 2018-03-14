@@ -12,7 +12,7 @@ import (
 	"github.com/stretchr/testify/require"
 	"github.com/stretchr/testify/suite"
 
-	"github.com/mattermost/mattermost-server/model"
+	"github.com/SoulDemon/mattermostp/model"
 )
 
 type FileBackendTestSuite struct {

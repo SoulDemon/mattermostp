@@ -16,8 +16,8 @@ import (
 	"time"
 
 	"github.com/icrowley/fake"
-	"github.com/mattermost/mattermost-server/app"
-	"github.com/mattermost/mattermost-server/cmd"
+	"github.com/SoulDemon/mattermostp/app"
+	"github.com/SoulDemon/mattermostp/cmd"
 	"github.com/spf13/cobra"
 )
 

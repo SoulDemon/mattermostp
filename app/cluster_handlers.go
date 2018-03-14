@@ -6,7 +6,7 @@ package app
 import (
 	"strings"
 
-	"github.com/mattermost/mattermost-server/model"
+	"github.com/SoulDemon/mattermostp/model"
 )
 
 func (a *App) RegisterAllClusterMessageHandlers() {

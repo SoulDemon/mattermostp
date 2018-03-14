@@ -14,8 +14,8 @@ import (
 
 	"github.com/disintegration/imaging"
 	"github.com/gorilla/mux"
-	"github.com/mattermost/mattermost-server/app"
-	"github.com/mattermost/mattermost-server/model"
+	"github.com/SoulDemon/mattermostp/app"
+	"github.com/SoulDemon/mattermostp/model"
 )
 
 func (api *API) InitEmoji() {

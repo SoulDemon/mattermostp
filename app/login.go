@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/avct/uasurfer"
-	"github.com/mattermost/mattermost-server/model"
+	"github.com/SoulDemon/mattermostp/model"
 )
 
 func (a *App) AuthenticateUserForLogin(id, loginId, password, mfaToken, deviceId string, ldapOnly bool) (*model.User, *model.AppError) {

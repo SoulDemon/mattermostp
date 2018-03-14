@@ -13,7 +13,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/mattermost/mattermost-server/plugin/rpcplugin/rpcplugintest"
+	"github.com/SoulDemon/mattermostp/plugin/rpcplugin/rpcplugintest"
 )
 
 func TestNewProcess(t *testing.T) {
@@ -41,7 +41,7 @@ func TestNewProcess(t *testing.T) {
 			"github.com/stretchr/testify/assert"
 			"github.com/stretchr/testify/require"
 
-			"github.com/mattermost/mattermost-server/plugin/rpcplugin"
+			"github.com/SoulDemon/mattermostp/plugin/rpcplugin"
 		)
 
 		var failures int

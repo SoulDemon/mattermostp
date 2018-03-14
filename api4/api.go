@@ -8,8 +8,8 @@ import (
 
 	l4g "github.com/alecthomas/log4go"
 	"github.com/gorilla/mux"
-	"github.com/mattermost/mattermost-server/app"
-	"github.com/mattermost/mattermost-server/model"
+	"github.com/SoulDemon/mattermostp/app"
+	"github.com/SoulDemon/mattermostp/model"
 	"github.com/souldemon/mattermostp/utils"
 
 	_ "github.com/nicksnyder/go-i18n/i18n"

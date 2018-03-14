@@ -20,18 +20,18 @@ import (
 	l4g "github.com/alecthomas/log4go"
 
 	"github.com/gorilla/mux"
-	"github.com/mattermost/mattermost-server/model"
+	"github.com/SoulDemon/mattermostp/model"
 	"github.com/souldemon/mattermostp/utils"
 
-	builtinplugin "github.com/mattermost/mattermost-server/app/plugin"
-	"github.com/mattermost/mattermost-server/app/plugin/jira"
-	"github.com/mattermost/mattermost-server/app/plugin/ldapextras"
-	"github.com/mattermost/mattermost-server/app/plugin/zoom"
+	builtinplugin "github.com/SoulDemon/mattermostp/app/plugin"
+	"github.com/SoulDemon/mattermostp/app/plugin/jira"
+	"github.com/SoulDemon/mattermostp/app/plugin/ldapextras"
+	"github.com/SoulDemon/mattermostp/app/plugin/zoom"
 
-	"github.com/mattermost/mattermost-server/plugin"
-	"github.com/mattermost/mattermost-server/plugin/pluginenv"
-	"github.com/mattermost/mattermost-server/plugin/rpcplugin"
-	"github.com/mattermost/mattermost-server/plugin/rpcplugin/sandbox"
+	"github.com/SoulDemon/mattermostp/plugin"
+	"github.com/SoulDemon/mattermostp/plugin/pluginenv"
+	"github.com/SoulDemon/mattermostp/plugin/rpcplugin"
+	"github.com/SoulDemon/mattermostp/plugin/rpcplugin/sandbox"
 )
 
 const (

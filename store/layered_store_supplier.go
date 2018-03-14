@@ -3,7 +3,7 @@
 
 package store
 
-import "github.com/mattermost/mattermost-server/model"
+import "github.com/SoulDemon/mattermostp/model"
 import "context"
 
 type LayeredStoreSupplierResult struct {

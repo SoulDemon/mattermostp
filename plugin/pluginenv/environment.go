@@ -13,8 +13,8 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/mattermost/mattermost-server/model"
-	"github.com/mattermost/mattermost-server/plugin"
+	"github.com/SoulDemon/mattermostp/model"
+	"github.com/SoulDemon/mattermostp/plugin"
 )
 
 type APIProviderFunc func(*model.Manifest) (plugin.API, error)

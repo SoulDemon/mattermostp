@@ -4,7 +4,7 @@
 package app
 
 import (
-	"github.com/mattermost/mattermost-server/store"
+	"github.com/SoulDemon/mattermostp/store"
 )
 
 type Option func(a *App)

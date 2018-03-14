@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mattermost/mattermost-server/model"
+	"github.com/SoulDemon/mattermostp/model"
 )
 
 func TestStatusCommands(t *testing.T) {

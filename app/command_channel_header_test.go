@@ -3,7 +3,7 @@ package app
 import (
 	"testing"
 
-	"github.com/mattermost/mattermost-server/model"
+	"github.com/SoulDemon/mattermostp/model"
 	"github.com/stretchr/testify/assert"
 )
 

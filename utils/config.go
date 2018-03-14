@@ -21,8 +21,8 @@ import (
 
 	"net/http"
 
-	"github.com/mattermost/mattermost-server/einterfaces"
-	"github.com/mattermost/mattermost-server/model"
+	"github.com/SoulDemon/mattermostp/einterfaces"
+	"github.com/SoulDemon/mattermostp/model"
 )
 
 const (

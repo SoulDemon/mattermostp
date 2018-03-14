@@ -10,7 +10,7 @@ import (
 
 	l4g "github.com/alecthomas/log4go"
 
-	"github.com/mattermost/mattermost-server/store/storetest"
+	"github.com/SoulDemon/mattermostp/store/storetest"
 	"github.com/souldemon/mattermostp/utils"
 )
 

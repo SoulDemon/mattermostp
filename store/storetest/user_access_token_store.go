@@ -6,8 +6,8 @@ package storetest
 import (
 	"testing"
 
-	"github.com/mattermost/mattermost-server/model"
-	"github.com/mattermost/mattermost-server/store"
+	"github.com/SoulDemon/mattermostp/model"
+	"github.com/SoulDemon/mattermostp/store"
 )
 
 func TestUserAccessTokenStore(t *testing.T, ss store.Store) {

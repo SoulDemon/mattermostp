@@ -8,7 +8,7 @@ import (
 
 	"net/http"
 
-	"github.com/mattermost/mattermost-server/model"
+	"github.com/SoulDemon/mattermostp/model"
 	"github.com/souldemon/mattermostp/utils"
 )
 

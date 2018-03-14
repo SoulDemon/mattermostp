@@ -6,7 +6,7 @@ package api
 import (
 	"testing"
 
-	"github.com/mattermost/mattermost-server/model"
+	"github.com/SoulDemon/mattermostp/model"
 )
 
 func TestGetClientProperties(t *testing.T) {

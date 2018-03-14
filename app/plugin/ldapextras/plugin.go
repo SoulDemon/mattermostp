@@ -11,8 +11,8 @@ import (
 	l4g "github.com/alecthomas/log4go"
 	"github.com/gorilla/mux"
 
-	"github.com/mattermost/mattermost-server/app/plugin"
-	"github.com/mattermost/mattermost-server/model"
+	"github.com/SoulDemon/mattermostp/app/plugin"
+	"github.com/SoulDemon/mattermostp/model"
 )
 
 type Plugin struct {

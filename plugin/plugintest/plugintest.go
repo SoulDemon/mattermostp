@@ -14,8 +14,8 @@
 //        "github.com/stretchr/testify/assert"
 //        "github.com/stretchr/testify/require"
 //
-//        "github.com/mattermost/mattermost-server/model"
-//        "github.com/mattermost/mattermost-server/plugin/plugintest"
+//        "github.com/SoulDemon/mattermostp/model"
+//        "github.com/SoulDemon/mattermostp/plugin/plugintest"
 //    )
 //
 //    func TestHelloUserPlugin(t *testing.T) {
@@ -44,5 +44,5 @@
 // https://godoc.org/github.com/stretchr/testify/mock
 //
 // If you need to import the mock package, you can import it with
-// "github.com/mattermost/mattermost-server/plugin/plugintest/mock".
+// "github.com/SoulDemon/mattermostp/plugin/plugintest/mock".
 package plugintest

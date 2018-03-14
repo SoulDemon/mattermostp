@@ -4,7 +4,7 @@
 package jobs
 
 import (
-	"github.com/mattermost/mattermost-server/model"
+	"github.com/SoulDemon/mattermostp/model"
 )
 
 type ElasticsearchIndexerInterface interface {

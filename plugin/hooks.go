@@ -6,7 +6,7 @@ package plugin
 import (
 	"net/http"
 
-	"github.com/mattermost/mattermost-server/model"
+	"github.com/SoulDemon/mattermostp/model"
 )
 
 // Methods from the Hooks interface can be used by a plugin to respond to events. Methods are likely

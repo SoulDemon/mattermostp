@@ -10,7 +10,7 @@ import (
 	"strings"
 
 	l4g "github.com/alecthomas/log4go"
-	"github.com/mattermost/mattermost-server/model"
+	"github.com/SoulDemon/mattermostp/model"
 	"github.com/souldemon/mattermostp/utils"
 	"github.com/pkg/errors"
 	throttled "gopkg.in/throttled/throttled.v2"

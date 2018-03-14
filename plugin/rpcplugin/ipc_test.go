@@ -10,7 +10,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/mattermost/mattermost-server/plugin/rpcplugin/rpcplugintest"
+	"github.com/SoulDemon/mattermostp/plugin/rpcplugin/rpcplugintest"
 )
 
 func TestIPC(t *testing.T) {
@@ -25,7 +25,7 @@ func TestIPC(t *testing.T) {
 		import (
 			"log"
 
-			"github.com/mattermost/mattermost-server/plugin/rpcplugin"
+			"github.com/SoulDemon/mattermostp/plugin/rpcplugin"
 		)
 
 		func main() {

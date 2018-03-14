@@ -15,7 +15,7 @@ import (
 	s3 "github.com/minio/minio-go"
 	"github.com/minio/minio-go/pkg/credentials"
 
-	"github.com/mattermost/mattermost-server/model"
+	"github.com/SoulDemon/mattermostp/model"
 )
 
 type S3FileBackend struct {

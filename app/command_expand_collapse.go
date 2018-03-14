@@ -6,7 +6,7 @@ package app
 import (
 	"strconv"
 
-	"github.com/mattermost/mattermost-server/model"
+	"github.com/SoulDemon/mattermostp/model"
 	goi18n "github.com/nicksnyder/go-i18n/i18n"
 )
 

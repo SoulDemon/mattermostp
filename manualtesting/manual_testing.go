@@ -12,9 +12,9 @@ import (
 	"time"
 
 	l4g "github.com/alecthomas/log4go"
-	"github.com/mattermost/mattermost-server/api"
-	"github.com/mattermost/mattermost-server/app"
-	"github.com/mattermost/mattermost-server/model"
+	"github.com/SoulDemon/mattermostp/api"
+	"github.com/SoulDemon/mattermostp/app"
+	"github.com/SoulDemon/mattermostp/model"
 	"github.com/souldemon/mattermostp/utils"
 )
 

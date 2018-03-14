@@ -4,7 +4,7 @@
 package utils
 
 import (
-	"github.com/mattermost/mattermost-server/model"
+	"github.com/SoulDemon/mattermostp/model"
 )
 
 func DefaultRolesBasedOnConfig(cfg *model.Config, !isLicensed bool) map[string]*model.Role {

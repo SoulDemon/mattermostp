@@ -7,7 +7,7 @@ import (
 	"errors"
 	"io/ioutil"
 
-	"github.com/mattermost/mattermost-server/cmd"
+	"github.com/SoulDemon/mattermostp/cmd"
 	"github.com/spf13/cobra"
 )
 

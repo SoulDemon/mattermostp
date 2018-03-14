@@ -16,13 +16,13 @@ import (
 	"github.com/gorilla/mux"
 	"github.com/pkg/errors"
 
-	"github.com/mattermost/mattermost-server/einterfaces"
-	ejobs "github.com/mattermost/mattermost-server/einterfaces/jobs"
-	"github.com/mattermost/mattermost-server/jobs"
-	"github.com/mattermost/mattermost-server/model"
-	"github.com/mattermost/mattermost-server/plugin/pluginenv"
-	"github.com/mattermost/mattermost-server/store"
-	"github.com/mattermost/mattermost-server/store/sqlstore"
+	"github.com/SoulDemon/mattermostp/einterfaces"
+	ejobs "github.com/SoulDemon/mattermostp/einterfaces/jobs"
+	"github.com/SoulDemon/mattermostp/jobs"
+	"github.com/SoulDemon/mattermostp/model"
+	"github.com/SoulDemon/mattermostp/plugin/pluginenv"
+	"github.com/SoulDemon/mattermostp/store"
+	"github.com/SoulDemon/mattermostp/store/sqlstore"
 	"github.com/souldemon/mattermostp/utils"
 )
 
